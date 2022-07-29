@@ -1,1 +1,1 @@
-# DIve_into_Python
+Курс "Погружение в Python" на coursera.org пройденный в 2020 году
